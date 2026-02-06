@@ -30,4 +30,3 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Themiris&theme=tokyo-night)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Themiris&show_icons=true&theme=tokyonight)
