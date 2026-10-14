@@ -1,5 +1,5 @@
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Naman%20Garg&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20RAG%20%26%20Multi-Agent%20Systems&descAlignY=60&descSize=18" width="100%" alt="Naman Garg"/>
+<h1 align="center">Naman Garg</h1>
+<h3 align="center">AI Engineer ┬╖ RAG and Multi-Agent Systems</h3>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -94,23 +94,9 @@ Open it as a guest, no signup needed.
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Namangarg-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namangarg-01&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Namangarg-01&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
----
-
 ## Currently
 
 - Making XeroCode faster and cheaper to run on a small server
 - Going deeper on multi-agent orchestration and LLMOps
 - Looking for **AI / ML Engineer or SDE** roles, open to a quick chat
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%" alt=""/>
