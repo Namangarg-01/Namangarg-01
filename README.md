@@ -1,83 +1,116 @@
-# 👋 Hi, I'm Naman Garg
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Naman%20Garg&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20RAG%20%26%20Multi-Agent%20Systems&descAlignY=60&descSize=18" width="100%" alt="Naman Garg"/>
 
-### 🚀 AI Engineer | RAG & Multi-Agent Systems | Final Year @ IIIT Naya Raipur
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=I+build+LLM+apps+end+to+end;Agentic+RAG+%C2%B7+MCP+%C2%B7+LangGraph;Final-year+CSE+%40+IIIT+Naya+Raipur" alt="Typing SVG" />
+  </a>
+</p>
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+RAG+%26+Agentic+Systems;Building+Production+LLM+Pipelines" alt="Typing SVG" /> </div>
-
----
-
-## 🧠 About Me
-
-- 🎓 Final-year CSE undergrad at **IIIT Naya Raipur** (CGPA 8.89), expected May 2027
-- 💼 Currently an **Apprentice at NEC Corporation** — building FastAPI + MongoDB backends for real-time alert tracking
-- 🤖 Specialise in **production RAG pipelines** (LangGraph, FAISS), **multi-agent orchestration**, and **LLM workflow deployment**
-- 🛠️ Previously: AI Engineer Intern @ **RootVestors**, Samsung PRISM Trainee @ **Samsung R&D**, ML Intern @ **PNB Housing Finance**
-- 🏆 Cleared **JEE Advanced** twice (2022, 2023)
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql)
-
-### 🤖 AI / GenAI
-![LangChain](https://img.shields.io/badge/LangChain-1B4332?style=for-the-badge&logo=langchain)
-![LangGraph](https://img.shields.io/badge/LangGraph-1B4332?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-1E3A8A?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-B45309?style=for-the-badge&logo=tensorflow)
-![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-9A3412?style=for-the-badge&logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/XGBoost-1F2937?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-4C1D95?style=for-the-badge)
-
-### 📦 Systems & Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-065F46?style=for-the-badge&logo=fastapi)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0C4A6E?style=for-the-badge&logo=postgresql)
-![Neo4j](https://img.shields.io/badge/Neo4j-1F2937?style=for-the-badge&logo=neo4j)
-![MongoDB](https://img.shields.io/badge/MongoDB-14532D?style=for-the-badge&logo=mongodb)
-![Docker](https://img.shields.io/badge/Docker-0369A1?style=for-the-badge&logo=docker)
-![Streamlit](https://img.shields.io/badge/Streamlit-7F1D1D?style=for-the-badge&logo=streamlit)
-
-### 📊 Data
-![NumPy](https://img.shields.io/badge/NumPy-0C4A6E?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-312E81?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1F2937?style=for-the-badge)
+<p align="center">
+  <a href="https://www.linkedin.com/in/naman-garg-a1b071361"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:namaniiitnr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://xerocode-minipekka.duckdns.org"><img src="https://img.shields.io/badge/Try%20XeroCode-live-2EA043?style=for-the-badge"/></a>
+</p>
 
 ---
 
-## 📌 Featured Projects
+## About
 
-- 🔁 **[Serverless Autopilot](https://github.com/Namangarg-01/serverless-autopilot)** — Self-healing AWS Lambda cost/latency optimizer (11 Lambdas, Step Functions, Bayesian optimization, canary deploys with automatic rollback)
-- 🐞 **[Debug Pipeline](https://github.com/Namangarg-01/debug_pipeline)** — Multi-agent codebase intelligence system that auto-diagnoses production errors and files JIRA tickets with root-cause analysis
-- 🏥 **[Clinisight](https://github.com/Namangarg-01/Clinisight)** — MCP-based medical diagnosis agent that extracts symptoms, generates differential diagnoses, and surfaces corroborating PubMed research
+I'm a final-year CSE student at **IIIT Naya Raipur** (CGPA 8.89) who builds LLM applications end to end: agentic RAG pipelines, multi-agent systems and MCP tools, served on FastAPI and deployed on AWS. I care about reliability, cost and numbers I can defend.
 
----
-
-## 📊 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Namangarg-01&theme=tokyo-night)
+- Apprentice at **NEC Corporation**: FastAPI + MongoDB backend for camera-alert tracking, with a graph service that turns alerts into movement paths.
+- Previously **AI Engineer Intern at RootVestors** (10-node agentic RAG pipeline in LangGraph) and **ML Intern at PNB Housing Finance**.
+- Cleared **JEE Advanced** twice (2022, 2023).
 
 ---
 
-## 🎯 Current Focus
+## Featured project
 
-- 🔬 Building **production-grade RAG and agentic systems**
-- 🧩 Deepening expertise in **multi-agent orchestration & LLMOps**
-- 🏗️ Shipping **end-to-end AI-powered backends** (FastAPI, AWS, MongoDB/PostgreSQL)
+### XeroCode: a no-code RAG pipeline studio ([live](https://xerocode-minipekka.duckdns.org))
+
+Building a RAG chatbot usually means writing code and guessing which settings work. XeroCode lets you drag steps onto a canvas, compare runs side by side, fine-tune small open models on a free GPU, and export any pipeline as a chatbot that runs on your own computer.
+
+| | |
+|---|---|
+| **Pipeline** | 19 steps: hybrid retrieval, reranking, Graph RAG, multi-agent routing |
+| **Stack** | React + TypeScript, FastAPI, PostgreSQL, ChromaDB |
+| **Deploy** | AWS EC2, Docker Compose, Caddy HTTPS |
+| **Resilience** | Groq-to-Ollama fallback; 100 concurrent requests, 0 errors in load test |
+
+Open it as a guest, no signup needed.
 
 ---
 
-## 🤝 Connect With Me
+## More projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naman-garg-a1b071361)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)](https://github.com/Namangarg-01)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:namaniiitnr@gmail.com)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Namangarg-01/serverless-autopilot">Serverless Autopilot</a></h4>
+      Self-healing AWS Lambda optimizer: 11 Lambdas, 2 Step Functions, Bayesian optimization, 80/20 canaries with automatic rollback. On test workloads, I/O jobs ran 84% cheaper than an over-provisioned config.
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Namangarg-01/debug_pipeline">Autonomous Debugging Agent</a></h4>
+      Indexes Python, JS/TS, Java and Go codebases, watches live logs, finds the root cause and files Jira tickets with fixes and severity filled in. <a href="https://debugpipeline-t5cxntpzfdp6a6oe5zzrj7.streamlit.app/">Live demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Namangarg-01/Clinisight">Clinisight</a></h4>
+      MCP medical diagnosis agent: extracts symptoms, proposes differential diagnoses and backs them with PubMed research. Works from Claude Desktop. <a href="https://clinisight-obouepaqvfa29ps7tpzyrj.streamlit.app/">Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Namangarg-01/portfolio-risk-analytics">Portfolio Risk Analytics</a></h4>
+      Five years of prices, 11 tickers, SQL window functions and Pandas: Sharpe, Sortino, VaR and drawdown. <a href="https://portfolio-risk-analytics-ng.streamlit.app/">Live demo</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ⚡ Fun Fact
+## Tech stack
 
-> I love turning ideas into AI-powered products.
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/LangGraph-1B4332?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1B4332?style=for-the-badge&logo=langchain"/>
+  <img src="https://img.shields.io/badge/MCP-4C1D95?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-1E3A8A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-1E3A8A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-065F46?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/React-0C4A6E?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Docker-0369A1?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0C4A6E?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MongoDB-14532D?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Neo4j-7F1D1D?style=for-the-badge&logo=neo4j"/>
+  <img src="https://img.shields.io/badge/TensorFlow-B45309?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-9A3412?style=for-the-badge&logo=scikitlearn"/>
+</p>
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Namangarg-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namangarg-01&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Namangarg-01&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+---
+
+## Currently
+
+- Making XeroCode faster and cheaper to run on a small server
+- Going deeper on multi-agent orchestration and LLMOps
+- Looking for **AI / ML Engineer or SDE** roles, open to a quick chat
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%" alt=""/>
