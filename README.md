@@ -1,5 +1,5 @@
 <h1 align="center">Naman Garg</h1>
-<h3 align="center">AI Engineer ┬╖ RAG and Multi-Agent Systems</h3>
+<h3 align="center">AI Engineer | RAG and Multi-Agent Systems</h3>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
